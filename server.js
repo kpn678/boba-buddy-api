@@ -9,7 +9,8 @@ app.use(express.json());
 app.locals.title = 'Boba Buddy API';
 app.locals.shops = shops;
 
-app.set('port', 3001);
+app.set('port', process.env.PORT || 3001);
+
 app.listen(app.get('port'), () => {
   console.log(`${app.locals.title} is running on http://localhost:${app.get('port')}.`);
 });
@@ -17,3 +18,4 @@ app.listen(app.get('port'), () => {
 app.get('/', (request, response) => {
   response.status(200).json(app.locals.shops);
 });
+
