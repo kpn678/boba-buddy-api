@@ -52,7 +52,7 @@ const shops = [
   { id: 51, name: 'Mochinut', region: 'East', address: '2222 S Havana St Unit A2, Aurora, CO 80014', yelp: 'https://www.yelp.com/biz/mochinut-aurora', facebook: 'https://www.facebook.com/mochinut.co/', instagram: 'https://www.instagram.com/mochinutco/?hl=en', website: 'https://www.mochinut.com/'},
   { id: 52, name: 'Boba Touch', region: 'Central', address: '3107 E Colfax Ave, Denver, CO 80206', yelp: 'https://www.yelp.com/biz/boba-touch-denver', facebook: 'https://www.facebook.com/BobaTouch', instagram: 'https://www.instagram.com/bobatouch/?hl=en', website: 'https://bobatouch.com/'},
   { id: 53, name: 'Milkit', region: 'Southeast', address: '9625 E Arapahoe Rd Unit G, Greenwood Village, CO 80112', yelp: 'https://www.yelp.com/biz/milkit-greenwood-village', facebook: 'https://www.facebook.com/milkitco/', instagram: 'https://www.instagram.com/milkit_co/?hl=en', website: 'https://www.milkitcolorado.com/'},
-  { id: 54, name: 'Tsaocaa Wesminster', region: 'Northwest', address: '5092 W 92nd Ave, Westminster, CO 80031', yelp: '', facebook: '', instagram: 'https://www.instagram.com/tsaocaa_co/', website: 'https://www.tsaocaatea.com/'},
+  { id: 54, name: 'Tsaocaa Wesminster', region: 'Northwest', address: '5092 W 92nd Ave, Westminster, CO 80031', yelp: 'https://www.yelp.com/biz/tsaocaa-tea-westminster', facebook: '', instagram: 'https://www.instagram.com/tsaocaa_co/', website: 'https://www.tsaocaatea.com/'},
   { id: 55, name: 'The Alley at Southlands', region: 'Southeast', address: '24107 E Commons Ave Ste 102, Aurora, CO 80016', yelp: '', facebook: '', instagram: '', website: 'https://www.the-alley.us/'},
   { id: 56, name: 'Tea-hee Boba', region: 'North', address: '3894 E 120th Ave Unit B, Thornton, CO 80233', yelp: 'https://www.yelp.com/biz/tea-hee-boba-thornton', facebook: 'https://www.facebook.com/TeaHee-BOBA-109971141492939/', instagram: 'https://www.instagram.com/teaheeboba/', website: 'https://tea-hee-boba.business.site/'},
   { id: 57, name: 'Kung Fu Tea Wheat Ridge', region: 'West', address: '3400 Youngfield St, Wheat Ridge, CO 80033', yelp: '', facebook: '', instagram: '', website: 'https://www.kungfutea.com/'},
@@ -66,6 +66,7 @@ const shops = [
   { id: 65, name: 'SNOWL', region: 'Southeast', address: '5612 S Parker Rd, Aurora, CO 80015', yelp: 'https://www.yelp.com/biz/snowl-cafe-aurora-4', facebook: 'https://www.facebook.com/snowlcafe', instagram: 'https://www.instagram.com/snowl.cafe/?hl=en', website: 'https://www.snowlcafe.com/'},
   { id: 66, name: 'ThirsTea Tiger', region: 'West', address: '14500 W Colfax Dr, Lakewood, CO 80401', yelp: '', facebook: '', instagram: 'https://www.instagram.com/thirstea_tiger/?hl=en', website: ''},
   { id: 67, name: 'Bubblelicious', region: 'West', address: '14500 W Colfax Dr, Lakewood, CO 80401', yelp: 'https://www.yelp.com/biz/bubblelicous-milk-tea-and-fruit-tea-lakewood?osq=Boba+Tea', facebook: '', instagram: '', website: 'https://bubblelicious.com/'},
+  { id: 68, name: 'Dochi', region: 'Central', address: '2449 Larimer St, Denver, CO 80205', yelp: 'https://www.yelp.com/biz/dochi-denver-denver', facebook: 'https://www.facebook.com/Dochi.Denver/', instagram: 'https://www.instagram.com/dochi.denver/?hl=en', website: 'https://www.dochicompany.com/'},
 ]
 
 module.exports = shops; 
