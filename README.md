@@ -1,6 +1,6 @@
 # Boba Buddy API
 
-This API was designed to be used with the [Boba Buddy application](https://github.com/kpn678/boba-buddy). It is also currently deployed on [Heroku](https://dnvr-boba-buddy-api.herokuapp.com/).
+This API was designed to be used with the [Boba Buddy application](https://github.com/kpn678/boba-buddy). It is also currently deployed on [Railway](https://boba-buddy-api.up.railway.app/).
 
 ## Set-Up
 1. Clone down this repo and `cd` into the directory.
