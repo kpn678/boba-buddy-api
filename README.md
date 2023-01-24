@@ -13,3 +13,6 @@ This API was designed to be used with the [Boba Buddy application](https://githu
 | Method | Endpoint | Request Body | Sample Response |
 --- | --- | --- | ---
 `GET` | `'/'` | n/a | `[{"id": 1, "name": "Sharetea Belmar", "region": "West", "address": "424 S Teller St, Lakewood, CO 80226", "yelp": "https://www.yelp.com/biz/sharetea-lakewood-lakewood", "facebook": "https://www.facebook.com/shareteabelmar", "instagram": "https://www.instagram.com/shareteabelmar/", "website": "https://www.1992sharetea.com/"}, ...]`
+
+## Contributor
+- [Kristy Nguyen](https://www.linkedin.com/in/kristypnguyen/)
